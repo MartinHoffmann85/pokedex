@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    height: 100vh;
+    color: white;
+}
+
+#contentID {
+    width: 100%;
+}
+
+.card {
+    border: 5px solid !important; 
+    border-color: black;   
+    box-shadow: 10px 5px 5px grey; 
+}
+.card-body {    
+
+}
+
+.pokemonName {
+    font-size: 24px;
+    color: black;
+}
+
+.pokemonText {
+    font-size: 16px;
+    color: black;
+}
